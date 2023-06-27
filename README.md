@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mun1988
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Web Development courses
 - 🌱 I’m currently learning git & github
 - 💞️ I’m looking to collaborate on students of AnnieCannons
 - 📫 How to reach me 
